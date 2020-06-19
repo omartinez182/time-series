@@ -1,2 +1,2 @@
-# time-series
-Time Series Analysis
+# Time Series
+Repository dedicated to Time Series Analysis.
